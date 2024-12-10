@@ -1,0 +1,20 @@
+Project Proposal
+Interactive Rectangle and Point Representation using Python
+Objective:
+To create an interactive Python-based application that allows users to visually and computationally interact with geometric shapes. The project enables users to guess if a point falls within a randomly generated rectangle and calculates how accurate their area estimation is.
+Key Features:
+1. Point and Rectangle Classes:
+- Encapsulation of geometric properties.
+- Functions to check relationships between points and rectangles.
+2. Graphical Visualization:
+- Representation of rectangles and points using the Turtle graphics module.
+- Interactive dot placement and rectangle drawing.
+3. User Interaction:
+- Randomized rectangle generation.
+- User input for guessing coordinates and rectangle area.
+- Feedback on accuracy and correctness.
+Technical Stack:
+- Language: Python
+- Libraries Used: turtle, random
+Outcomes:
+This project aims to demonstrate concepts of object-oriented programming (OOP), graphical representation, and user interaction in Python. It also reinforces mathematical reasoning by integrating basic geometry concepts.
